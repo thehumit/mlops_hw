@@ -1,0 +1,5 @@
+outs:
+- md5: a2d96f7003fedfd4024c3f910d635fca
+  size: 4197
+  hash: md5
+  path: tiral.csv
